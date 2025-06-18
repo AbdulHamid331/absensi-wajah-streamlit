@@ -1,7 +1,4 @@
-
 streamlit
+opencv-python-headless
+numpy
 pandas
-xgboost
-shap
-matplotlib
-scikit-learn
